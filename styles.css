@@ -7,9 +7,9 @@
 
 body {
   background: linear-gradient(
-    to right,
-    hsl(200, 100%, 50%),
-    hsl(175, 100%, 50%)
+    44.8deg,
+    rgba(255, 136, 102, 0.67) -53.1%,
+    rgba(255, 221, 136, 0.28) 49%
   );
   display: flex;
   justify-content: center;
